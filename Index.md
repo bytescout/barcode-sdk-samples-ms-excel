@@ -1,0 +1,4 @@
+## Index of source code examples
+
+
+\VBA - Batch Generate Barcodes In Cells
